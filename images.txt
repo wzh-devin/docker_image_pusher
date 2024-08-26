@@ -7,3 +7,6 @@ xhofe/alist:latest
 
 # mysql
 mysql:8.0.33
+
+# nacos
+nacos/nacos-server:v2.4.1
