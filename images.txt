@@ -13,4 +13,4 @@ nacos/nacos-server:v2.4.1
 prom/prometheus
 
 # seata
-seataio/seata-server:1.8.0.1
+seataio/seata-server:1.5.2
