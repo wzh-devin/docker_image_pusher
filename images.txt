@@ -11,3 +11,6 @@ mysql:8.0.33
 # nacos
 nacos/nacos-server:v2.4.1
 prom/prometheus
+
+# seata
+seataio/seata-server:1.8.0.1
