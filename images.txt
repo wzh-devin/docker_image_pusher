@@ -20,6 +20,7 @@ tensorchord/pgvecto-rs:pg14-v0.2.0
 
 # redis
 redis:6.2-alpine
+redis:7.4.0
 
 # postgres
 postgres:12.4
