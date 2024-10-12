@@ -27,3 +27,6 @@ postgres:12.4
 
 # halo-plus
 nineya/halo-plus:latest
+
+# halo
+halohub/halo:2.19
