@@ -31,3 +31,6 @@ nineya/halo-plus:latest
 # halo
 halohub/halo:2.19
 halohub/halo:1.6
+
+# minio
+bitnami/minio:2021.6.17
