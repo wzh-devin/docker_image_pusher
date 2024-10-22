@@ -35,4 +35,4 @@
 # minio
 #bitnami/minio:2022.5.23
 minio/minio:RELEASE.2021-06-17T00-10-46Z.hotfix.35a0912ff
-
+minio/minio:RELEASE.2024-10-13T13-34-11Z.fips
