@@ -40,3 +40,5 @@ halohub/halo:2.20
 
 # jenkins
 jenkins/jenkins:lts
+
+foxiswho/rocketmq:4.8.0
