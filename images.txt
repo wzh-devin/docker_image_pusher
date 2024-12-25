@@ -39,8 +39,8 @@ halohub/halo:2.20
 #minio/minio:RELEASE.2024-10-02T17-50-41Z
 
 # jenkins
-jenkins/jenkins:lts
+#jenkins/jenkins:lts
 
-foxiswho/rocketmq:4.8.0
-iamverygood/rocketmq-console:4.7.1
-node:18.20-slim
+#foxiswho/rocketmq:4.8.0
+#iamverygood/rocketmq-console:4.7.1
+node:18.20
