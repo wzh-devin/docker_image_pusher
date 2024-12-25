@@ -43,4 +43,4 @@ halohub/halo:2.20
 
 #foxiswho/rocketmq:4.8.0
 #iamverygood/rocketmq-console:4.7.1
-node:18.20
+node:20.18
