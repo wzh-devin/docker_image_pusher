@@ -44,3 +44,9 @@ halohub/halo:2.20
 #foxiswho/rocketmq:4.8.0
 #iamverygood/rocketmq-console:4.7.1
 node:20.18
+
+#immich
+ghcr.io/immich-app/immich-server:release
+ghcr.io/immich-app/immich-machine-learning:release
+docker.io/redis:6.2-alpine@sha256:905c4ee67b8e0aa955331960d2aa745781e6bd89afc44a8584bfd13bc890f0ae
+docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
