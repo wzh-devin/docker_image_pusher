@@ -46,3 +46,6 @@ halohub/halo:2.20
 node:20.18
 
 xuxueli/xxl-job-admin:2.3.0
+
+ghcr.io/chartdb/chartdb:latest
+
