@@ -50,4 +50,4 @@ node:20.18
 # ghcr.io/chartdb/chartdb:latest
 
 openjdk:17-jdk
-20.18.0-alpine3.19
+node:20-alpine
