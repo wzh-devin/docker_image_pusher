@@ -20,26 +20,16 @@ nacos/nacos-server:v2.4.1
 
 # redis
 #redis:6.2-alpine
-#redis:7.4.0
+redis:7.4.1
 
 # postgres
 #postgres:12.4
-
-# halo-plus
-#nineya/halo-plus:latest
-
-# halo
-halohub/halo:2.20
-#halohub/halo:1.6
 
 # minio
 #bitnami/minio:2022.5.23
 #minio/minio:RELEASE.2021-06-17T00-10-46Z.hotfix.35a0912ff
 #minio/minio:RELEASE.2024-10-13T13-34-11Z.fips
 #minio/minio:RELEASE.2024-10-02T17-50-41Z
-
-# jenkins
-#jenkins/jenkins:lts
 
 #foxiswho/rocketmq:4.8.0
 #iamverygood/rocketmq-console:4.7.1
