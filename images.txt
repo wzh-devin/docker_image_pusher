@@ -36,8 +36,3 @@ redis:7.4.1
 node:20.18
 
 # xuxueli/xxl-job-admin:2.3.0
-
-# ghcr.io/chartdb/chartdb:latest
-
-openjdk:17-jdk
-node:20-alpine
