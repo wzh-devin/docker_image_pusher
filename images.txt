@@ -36,3 +36,4 @@ redis:7.4.1
 node:20.18
 
 # xuxueli/xxl-job-admin:2.3.0
+postgres:16-alpine
